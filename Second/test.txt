@@ -1,1 +1,13 @@
-34434
+github提交本地文件
+
+
+
+克隆远程仓库
+1、cd e:/fjh/Repository（进入想存放仓库的文件夹）
+2、$ git clone https://github.com/shengyueru/Fu2016.git（这个是刚才复制的地址）
+
+add  commit  push
+
+git add Second 
+git commit -am "提示信息"
+git push origin master
